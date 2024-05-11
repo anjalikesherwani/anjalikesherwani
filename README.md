@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **MEAN**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **MEAN**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anjalikesherwani/portfolio](https://github.com/anjalikesherwani/portfolio)
 
