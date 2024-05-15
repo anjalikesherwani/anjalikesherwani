@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anjalikesherwani/portfolio](https://github.com/anjalikesherwani/portfolio)
 
-- 💬 Ask me about **PHP , Laravel , Python, Django , Javascript**
+- 💬 Ask me about **Html , Css , PHP , Laravel , Python, Django , Javascript , Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
