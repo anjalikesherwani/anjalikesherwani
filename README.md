@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anjalikesherwani/portfolio](https://github.com/anjalikesherwani/portfolio)
 
-- 💬 Ask me about **Html , Css , PHP , Laravel , Python, Django , Javascript , Java**
+- 💬 Ask me about **Html , Css , PHP , Laravel , Python, Django , Javascript , Java , Mongodb , MySQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
